@@ -17,7 +17,7 @@ An advanced, secure, and professional command-line utility designed to manage, f
 
 You can install the tool easily by running our automated installer script. Open your terminal and run:
 ```bash
-git clone 
+git clone https://github.com/UG-ALOK/Git-change.git
 ```
 ```bash
 cd Git-change
